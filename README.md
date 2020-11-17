@@ -1,6 +1,6 @@
 # New Project
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ This proyect was created with Snowpack, show the link for more information: https://www.snowpack.dev/
 
 ## Available Scripts
 
